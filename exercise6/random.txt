@@ -1,2 +1,4 @@
 Initial line
 
+Line 2 after first commit
+
