@@ -2,3 +2,5 @@ Initial line
 
 Line 2 after first commit
 
+line 3 after second commit
+
